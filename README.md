@@ -1,7 +1,7 @@
 ### Hi! My name is Patrícia and I'm an English Teacher studying to become a Software Developer. 🤓
 
-- 🔭 I’m currently working on front-end in projects with a friend. Still learning.
-- 🌱 I’m currently learning React JS.
+- 🔭 I’m currently working on some personal projects in order to learn more.
+- 🌱 I’m currently learning Javascript, React JS.
 - 📫 How to reach me: patricia-vieira2@hotmail.com
 - 😄 Pronouns: she/her
 
